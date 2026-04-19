@@ -1,4 +1,5 @@
-# 💧 AquaGuard — IoT Water Leakage Detection System
+# 💧 AquaGuard — IoT Water Leakage Detection System [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://waterleakagedetection-waterconservation.streamlit.app/)
+
 ### Simulation-Based · Python · Streamlit · SQLite
 
 ---
@@ -75,3 +76,7 @@ Open `http://localhost:8501` in your browser.
 - **Charts** — Plotly (gauges, area, line charts)
 - **Database** — SQLite via Python `sqlite3`
 - **Language** — Python 3.10+
+## 🚀 Live Demo
+Try the app here: [Water Leakage Detection Streamlit App](https://waterleakagedetection-waterconservation.streamlit.app)
+
+
